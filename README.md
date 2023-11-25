@@ -23,12 +23,10 @@ Y alguna más...
 ## Encuéntrame en:
 
 ## Mis proyectos:
-[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
-[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
 
 ## Retos de programación realizados:
 
-## Contacto y apoyo:
+## Contacto:
 
 
