@@ -3,9 +3,9 @@
 
 
 
-Soy un estudiante de desarrollo de software cursando su tercer semestre en una tecnologuia.
+I am a software development student in his third semester in a technology.
 
-En 2021 deje la universidad debido a ciertos incidentes economicos , pero gracias al internet logre interesarme en el ambito de la tecnologuia realizando varios cursos en linea , una vez solucionada la situacion empeze a estudiar una tecnologuia con la esperanza de a futuro poder vivir de esto 
+In 2021 I left the university due to certain economic incidents, but thanks to the internet I managed to get interested in the field of technology by taking several online courses, once the situation was solved I started to study a technology with the hope of being able to make a living from this in the future. 
 
 
 ## Tecnologías:
