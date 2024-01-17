@@ -1,32 +1,32 @@
 # Hello , my name is Alexander Martinez 👋
-### I am a full stack developer who wants to specialize in the backend.
+### I am a software development student looking to be a full stack mainly specialized in the backend.
+#### ✍️ &nbsp; About me
+🎓 &nbsp; I am currently a third semester student of software development at an institute in Quito/Ecuador.
+
+💬 &nbsp; My first language is Spanish but I can communicate in English, as long as it is not pronunciation, my level of English is B2.
+
+I love using Software as a solution for every `Problem`.
+## Programming languages I have worked with:  
+[![My Skills](https://skillicons.dev/icons?i=js,java,c,cs,cpp,dotnet,php,py)](https://skillicons.dev)
+## Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+## 🛠 &nbsp;Technologies I have used
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,firebase,github,git,mysql,visualstudio,vscode)](https://skillicons.dev)
 
 
 
-I am a software development student in his third semester in a technology.
+### ⚙️ &nbsp;GitHub Analytics
 
-In 2021 I left the university due to certain economic incidents, but thanks to the internet I managed to get interested in the field of technology by taking several online courses, once the situation was solved I started to study a technology with the hope of being able to make a living from this in the future. 
+<p align="center">
+<a href="https://github.com/AlkutF">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlkutF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlkutF&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
-
-## Tecnologías:
-[![HTML](https://img.shields.io/badge/HTML-823?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-0077B5?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-<br>
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-</br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-Y alguna más...
-
-## Encuéntrame en:
-
-## Mis proyectos:
-
-
-## Retos de programación realizados:
-
-## Contacto:
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/alexander-martinez-a1261921a/"><img src="https://img.shields.io/badge/-Alexander Martinez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="alkut202@gmail.com"><img src="https://img.shields.io/badge/-alkut202@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/alexander.morillo.3382118"><img src="https://img.shields.io/badge/-Alexander Martinez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 
