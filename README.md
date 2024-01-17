@@ -14,15 +14,6 @@ I love using Software as a solution for every `Problem`.
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,firebase,github,git,mysql,visualstudio,vscode)](https://skillicons.dev)
 
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AlkutF">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlkutF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlkutF&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-martinez-a1261921a/"><img src="https://img.shields.io/badge/-Alexander Martinez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
