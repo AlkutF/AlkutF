@@ -10,7 +10,6 @@
    <img src="https://img.shields.io/badge/-alkut202@gmail.com-D14836?style=flat&"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="21">
 </a>
-<br>
 <a href="https://drive.google.com/drive/folders/tu_enlace_aqui" target="_blank">
    <img src="https://img.shields.io/badge/Curriculum -4285F4?style=flat"/>
  <img src="https://cdn-icons-png.flaticon.com/512/6186/6186195.png" alt="CV Icon" width="21">
